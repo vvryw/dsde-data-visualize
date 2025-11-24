@@ -39,7 +39,7 @@ By using district of Bangkok (GeoJSON)
 pip install -r requirements.txt
 ```
 
-## 2. รัน Streamlit
+## 2. Run Streamlit
 
 ```
 streamlit run app.py
